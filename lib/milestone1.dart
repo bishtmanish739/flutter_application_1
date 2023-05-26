@@ -207,14 +207,14 @@ void main(List<String> arg) async {
 
 
 // Question =11 birthday remaining days calculator
- birthdayCalculator();
+//  birthdayCalculator();
 
 
 //Question 12
-// print('before downloading');
-// var a= downloading();
-// a.then((value) => print(value));
-// print(' downloading in background moving  to next task ');
+print('before downloading');
+var a= downloading();
+a.then((value) => print(value));
+print(' downloading in background moving  to next task ');
 
 
 }
